@@ -1,0 +1,16 @@
+username,password,role
+admin01,admin123,2
+admin02,admin456,2
+kasir01,kasir123,2
+kasir02,kasir456,2
+user01,user123,1
+user02,user456,1
+user03,user789,1
+user04,user321,1
+user05,user654,1
+user06,user987,1
+pelanggan01,beli123,1
+pelanggan02,beli456,1
+pelanggan03,beli789,1
+pelanggan04,beli321,1
+pelanggan05,beli654,1
